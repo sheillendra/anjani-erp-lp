@@ -1,0 +1,10 @@
+{
+  "name": "AnjaniERP",
+  "short_name": "AnjaniERP",
+  "description": "Sistem ERP terpadu untuk bisnis yang terus bertumbuh.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fbfaf6",
+  "theme_color": "#116b5c",
+  "lang": "id-ID"
+}
